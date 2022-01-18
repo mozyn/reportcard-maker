@@ -6,6 +6,7 @@ Version 3.0
 - console now outputs words of encouragement 
 
 Version 2.0
+
 -added credits for each individual course
 
 Version 1.5 
