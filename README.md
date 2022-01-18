@@ -7,7 +7,7 @@ Version 3.0
 
 Version 2.0
 
--added credits for each individual course
+- added credits for each individual course
 
 Version 1.5 
 - fixed input-validation 
