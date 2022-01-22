@@ -2,7 +2,7 @@
 Report Card Creation Tool to keep track of courses and calculate GPA developed using C++, user-tested, and maintained to version 3.0. Complete with installation wizard and executable.
 
 Version 3.1 
-- fix bug where user could enter an empty string for number of credits
+- fixed bug where user could enter an empty string for number of credits
 - added necessary DLLs and files to run more portably
 
 Version 3.0 
