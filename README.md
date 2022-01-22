@@ -1,5 +1,5 @@
 # Report Card-Maker 📓
-Report Card Creation Tool to keep track of courses and calculate GPA developed using C++, user-tested, and maintained to version 3.0. Complete with installation wizard and executable.
+Report Card Creation Tool to keep track of courses and calculate GPA developed using C++, user-tested, and maintained to version 3.1. Complete with installation wizard and executable.
 
 Version 3.1 
 - fixed bug where user could enter an empty string for number of credits
